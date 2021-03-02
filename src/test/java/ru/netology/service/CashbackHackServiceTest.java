@@ -1,11 +1,10 @@
 package ru.netology.service;
 
 import org.junit.Test;
-import service.CashbackHackService;
 
-import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.*;
 
-public class CashbackServiceTest {
+public class CashbackHackServiceTest {
     CashbackHackService service = new CashbackHackService();
 
     @Test
